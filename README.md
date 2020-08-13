@@ -7,6 +7,7 @@ The C programs in this repo covering the following:
 - trav_ex. is an example of traversing a linked list
 - strprac.c shows examples of using string functions in the string header file
 - LL_Fun_with_Delete shows a general example of code to delete any element in a linked list, no matter where it is
+- LL_Join.c illustrates how to combine two linked lists together
 
 The PDF notes in this repo:
 
