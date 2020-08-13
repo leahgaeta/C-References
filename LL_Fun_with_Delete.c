@@ -65,8 +65,6 @@ int main()
 	// Example of deleting an element from anywhere in a linked list
 	printf("\nNow let's see an example of deleting an element from the linked list: \n");
 
-	// Use the delete_one function and pass the first, current, and last pointers
-
 	current = first; // Adjust this as needed for learning
 	printf("The current pointer is currently at the element with letter %c and data %d.\n", current -> letter, current -> data); 
 
