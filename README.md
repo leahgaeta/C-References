@@ -9,6 +9,7 @@ The C programs in this repo cover the following topics:
 - LL_Fun_with_Delete.c shows a general example of code to delete any element in a linked list, no matter where it is
 - LL_Join.c illustrates how to combine two linked lists together
 - LL_Add_to_Beginning.c describes how to add an item to the beginning of a linked list within int main()
+- draw_triangle.c asks the user for a character input then draws a 45-45-90 triangle with that character using nested for loops
 
 The PDF notes in this repo:
 
