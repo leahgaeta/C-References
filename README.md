@@ -24,10 +24,8 @@ Using gcc as the compiler:
 1. Open Terminal
 2. Navigate to the directory the .c file is in (use cd to change directory)
 3. Type the following:
-
       - gcc -o custom_name cfilename.c (then press enter/return)
       - ./custom_name (then press enter/return)
-      
       
    *For example:*
       - gcc -o makepointers Make_Pntrs.c (then press enter/return)
