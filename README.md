@@ -29,8 +29,7 @@ Using gcc as the compiler:
       - ./custom_name (then press enter/return)
       
       
-   *For example*
-   
+   *For example:*
       - gcc -o makepointers Make_Pntrs.c (then press enter/return)
       - ./makepointers (then press enter/return)
       
