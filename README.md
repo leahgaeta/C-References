@@ -25,16 +25,14 @@ Using gcc as the compiler:
 2. Navigate to the directory the .c file is in (use cd to change directory)
 3. Type the following:
 
-      gcc -o custom_name cfilename.c (then press enter/return)
-      
-      ./custom_name (then press enter/return)
+      - gcc -o custom_name cfilename.c (then press enter/return)
+      - ./custom_name (then press enter/return)
       
       
    *For example*
    
-      gcc -o makepointers Make_Pntrs.c (then press enter/return)
-      
-      ./makepointers (then press enter/return)
+      - gcc -o makepointers Make_Pntrs.c (then press enter/return)
+      - ./makepointers (then press enter/return)
       
 
 If you need more help with Terminal and navigating to the directory where your .c file is, contact me directly.
