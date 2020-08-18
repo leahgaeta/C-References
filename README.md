@@ -4,7 +4,7 @@ This repository includes example C programs for students in BU's ENG EK 125 cour
 
 **The C programs in this repo cover the following topics:**
 
-- trav_ex. is an example of traversing a linked list
+- trav_ex.c is an example of traversing a linked list
 - strprac.c shows examples of using string functions in the string header file
 - LL_Fun_with_Delete.c shows a general example of code to delete any element in a linked list, no matter where it is
 - LL_Join.c illustrates how to combine two linked lists together
