@@ -4,6 +4,9 @@ This repository includes example C programs for students in BU's ENG EK 125 cour
 
 **The C programs in this repo cover the following topics:**
 
+- math_intro.c shows example math operations in C
+- RanIntArray.c shows running sum initialization and array creation
+- baseball_stats.c creates a struct and stores baseball stats for a 25-man roster; also shows examples of i/o, flushing the input buffer, and selection statements
 - trav_ex.c is an example of traversing a linked list
 - strprac.c shows examples of using string functions in the string header file
 - LL_Fun_with_Delete.c shows a general example of code to delete any element in a linked list, no matter where it is
