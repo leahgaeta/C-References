@@ -35,4 +35,4 @@ Using gcc as the compiler:
       - ./makepointers (then press enter/return)
       
 
-If you need more help with Terminal and navigating to the directory where your .c file is, contact me directly.
+If you need more help with Terminal and navigating to the directory where your .c file is, follow [this documentation](https://github.com/leahgaeta/C-References/blob/master/F20%20EK%20125%20Unix%20%26%20Terminal%20Documentation.pdf) I made for the course I TA for. If more help is needed, feel free to contact me directly.
