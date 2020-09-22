@@ -38,4 +38,4 @@ Using gcc as the compiler:
 If you need more help with Terminal and navigating to the directory where your .c file is, follow [this documentation](https://github.com/leahgaeta/C-References/blob/master/F20%20EK%20125%20Unix%20%26%20Terminal%20Documentation.pdf) I made for the course I TA for. If more help is needed, feel free to contact me directly.
 
 #
-[**Resources for Students in my Fall 2020 Discussion Sections](https://github.com/leahgaeta/C-References/tree/master/Fall20Material)
+[**Resources for Students in my Fall 2020 Discussion Sections**](https://github.com/leahgaeta/C-References/tree/master/Fall20Material)
