@@ -5,7 +5,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 **Discussion Section BA Notes:**
 - [Notes from 2020-11-06](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BA%20Discussion%2010.pdf) - intro to C, header files, typecasting, generating random numbers, selection statements, loops (for, while, & do while)
 - [Notes from 2020-11-13](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BA%20Discussion%2011.pdf) - typedef, structs, arrays, strings, functions & prototypes
-- Notes from 2020-11-20
+- [Notes from 2020-11-20](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BA%20Discussion%2012.pdf) - pointers, call-by-reference, dynamic memory allocation, double pointers
 - Happy Thanksgiving!
 - Notes from 2020-12-04
 
@@ -13,10 +13,11 @@ This repository provides discussion notes and resources for students in BU's ENG
 **Discussion Section BE Notes:**
 - [Notes from 2020-11-06](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BE%20Discussion%2010.pdf) - intro to C, header files, typecasting, generating random numbers, selection statements, loops (for, while, & do while)
 - [Notes from 2020-11-13](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BE%20Discussion%2011.pdf) - typedef, structs, arrays, strings, functions & prototypes
-- Notes from 2020-11-20
+- [Notes from 2020-11-20](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BE%20Discussion%2012.pdf) - pointers, call-by-reference, dynamic memory allocation, double pointers
 - Happy Thanksgiving!
 - Notes from 2020-12-04
 
 #
 **Requested Example Programs:**
 - [baseball_stats.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/Fall20Material/baseball_stats.c) - example of filling out a baseball roster with user input into a defined struct!
+- [Make_Pntrs.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/Fall20Material/Make_Pntrs.c) - example of making pointers using dynamic memory allocation and call-by-reference
