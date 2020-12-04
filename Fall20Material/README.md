@@ -7,7 +7,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2020-11-13](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BA%20Discussion%2011.pdf) - typedef, structs, arrays, strings, functions & prototypes
 - [Notes from 2020-11-20](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BA%20Discussion%2012.pdf) - pointers, call-by-reference, dynamic memory allocation, double pointers
 - Happy Thanksgiving!
-- Notes from 2020-12-04
+- [Notes from 2020-12-04]() - review of material for Exam 3
 
 #
 **Discussion Section BE Notes:**
@@ -15,13 +15,14 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2020-11-13](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BE%20Discussion%2011.pdf) - typedef, structs, arrays, strings, functions & prototypes
 - [Notes from 2020-11-20](https://github.com/leahgaeta/C-References/raw/master/Fall20Material/BE%20Discussion%2012.pdf) - pointers, call-by-reference, dynamic memory allocation, double pointers
 - Happy Thanksgiving!
-- Notes from 2020-12-04
+- [Notes from 2020-12-04]() - review of material for Exam 3
 
 #
 **Requested Example Programs:**
-- [baseball_stats.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/Fall20Material/baseball_stats.c) - example of filling out a baseball roster with user input into a defined struct! (also file i/o, flushing the input buffer, and selection statements)
+- Math operations, generating random integers, file i/o, selection statements, loops, arrays, and string operations
+  - [math_intro.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/math_intro.c) shows example math operations in C
+  - [baseball_stats.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/Fall20Material/baseball_stats.c) - example of filling out a baseball roster with user input into a defined struct! (also file i/o, flushing the input buffer, and selection statements)
 - [Make_Pntrs.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/Fall20Material/Make_Pntrs.c) - example of making pointers using dynamic memory allocation and call-by-reference
-- [math_intro.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/math_intro.c) shows example math operations in C
 - [RanIntArray.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/RanIntArray.c) shows running sum initialization and array creation
 - [trav_ex.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/trav_ex.c) is an example of traversing a linked list
 - [strprac.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/strprac.c) shows examples of using string functions in the string header file
