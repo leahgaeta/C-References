@@ -3,7 +3,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 
 #
 **Discussion Section B2 Notes:**
-- [Notes from 2021-03-26]()
+- [Notes from 2021-03-26](https://github.com/leahgaeta/C-References/raw/master/Spring21Material/Discussion%209.pdf)
 - [Notes from 2021-04-02]()
 - [Notes from 2021-04-09]()
 - [Notes from 2021-04-16]()
