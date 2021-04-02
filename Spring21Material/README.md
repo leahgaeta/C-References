@@ -11,4 +11,6 @@ This repository provides discussion notes and resources for students in BU's ENG
 
 #
 **Requested Example Programs:**
-- Requested programs will be seen here as the semester progresses.
+- [RanIntArray.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/RanIntArray.c) - practice with initializing an array of random integers
+- [baseball_stats.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/baseball_stats.c) - practice with making structs, user input, and flushing the input buffer
+- [strprac.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/strprac.c) - practice with string manipulation using the string header file
