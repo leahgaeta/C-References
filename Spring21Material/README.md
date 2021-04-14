@@ -9,6 +9,9 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2021-04-16]()
 - [Notes from 2021-04-23]()
 
+**Extra Notes:**
+- [Intro to Dynamic Memory Allocation](https://github.com/leahgaeta/C-References/raw/master/Spring21Material/Into%20to%20Dynamic%20Memory%20Allocation.pdf)
+
 #
 **Requested Example Programs:**
 - [RanIntArray.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/RanIntArray.c) - practice with initializing an array of random integers
