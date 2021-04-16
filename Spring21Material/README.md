@@ -18,3 +18,4 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [baseball_stats.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/baseball_stats.c) - practice with making structs, user input, and flushing the input buffer
 - [strprac.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/strprac.c) - practice with string manipulation using the string header file
 - [Make_Pntrs.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/Make_Pntrs.c) - practice with dynamic memory allocation and making pointers!
+- [trav_ex.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/trav_ex.c) - example of traversing a linked list
