@@ -19,3 +19,4 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [strprac.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/strprac.c) - practice with string manipulation using the string header file
 - [Make_Pntrs.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/Make_Pntrs.c) - practice with dynamic memory allocation and making pointers!
 - [trav_ex.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/trav_ex.c) - example of traversing a linked list
+- [LL_RandomInt.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/LL_RandomInt.c) - example of generating a linked list that contains random integers
