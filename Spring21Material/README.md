@@ -7,7 +7,7 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Notes from 2021-04-02](https://github.com/leahgaeta/C-References/raw/master/Spring21Material/Discussion%2010.pdf)
 - [Notes from 2021-04-09](https://github.com/leahgaeta/C-References/raw/master/Spring21Material/Discussion%2011.pdf)
 - [Notes from 2021-04-16](https://github.com/leahgaeta/C-References/raw/master/Spring21Material/Discussion%2012.pdf)
-- [Notes from 2021-04-23]()
+- [Notes from 2021-04-23](https://github.com/leahgaeta/C-References/raw/master/Spring21Material/Discussion%2013.pdf)
 
 **Extra Notes:**
 - [Intro to Dynamic Memory Allocation](https://github.com/leahgaeta/C-References/raw/master/Spring21Material/Into%20to%20Dynamic%20Memory%20Allocation.pdf)
