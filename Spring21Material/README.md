@@ -20,3 +20,4 @@ This repository provides discussion notes and resources for students in BU's ENG
 - [Make_Pntrs.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/Make_Pntrs.c) - practice with dynamic memory allocation and making pointers!
 - [trav_ex.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/trav_ex.c) - example of traversing a linked list
 - [LL_RandomInt.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/LL_RandomInt.c) - example of generating a linked list that contains random integers
+- [draw_triangle.c](https://raw.githubusercontent.com/leahgaeta/C-References/master/draw_triangle.c) - example of using a nested for loop to draw a triangle out of a character defined by the user input
